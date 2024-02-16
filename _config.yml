@@ -14,9 +14,10 @@ baseurl: ""
 username: BipinPaudel
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Welcome to my page.
 # email: Your E-Mail address for the email button.
 email: bipinp@ksu.com
+gmail: paudelbipin.bp@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -73,6 +74,10 @@ projects_title: Projects
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
+
+show_publications: true
+publications_title: Publications
+
 
 # CONTACT SECTION
 # show_contact_card:

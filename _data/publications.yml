@@ -1,0 +1,33 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Publication 1
+  descr: "Abhishek Jana, <b>Bipin Paudel</b>, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai, Neural Fuzzy Extractors: A Secure Way to Use Artificial Neural Networks for Biometric User Authentication, 22nd Privacy Enhancing Technologies Symposium (PETS 2022)."
+  demo: https://petsymposium.org/popets/2022/popets-2022-0100.pdf
+  tags:
+    - tag: Security
+    - tag: Deep Learning
+    - tag: Computer Vision
+    - tag: Biometric
+
+- name: Publication 2
+  descr: "<b>Bipin Paudel</b> and George Amariucai, Reinforcement Learning Approach to Generate Zero-Dynamics Attacks on Control Systems Without State Space Models, 28th European Symposium on Research in Computer Security (ESORICS), 2023."
+  demo: https://link.springer.com/chapter/10.1007/978-3-031-51482-1_1
+  tags:
+    - tag: Security
+    - tag: Reinforcement learning
+    - tag: anomaly detector
+    - tag: Control systems
+    
