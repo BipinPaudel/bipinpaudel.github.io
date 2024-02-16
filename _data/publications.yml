@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Publication 1
-  descr: "Abhishek Jana, <b>Bipin Paudel</b>, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai, Neural Fuzzy Extractors: A Secure Way to Use Artificial Neural Networks for Biometric User Authentication, 22nd Privacy Enhancing Technologies Symposium (PETS 2022)."
+  descr: Abhishek Jana, <b>Bipin Paudel</b>, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai, Neural Fuzzy Extractors, A Secure Way to Use Artificial Neural Networks for Biometric User Authentication, 22nd Privacy Enhancing Technologies Symposium (PETS 2022).
   demo: https://petsymposium.org/popets/2022/popets-2022-0100.pdf
   tags:
     - tag: Security
@@ -23,7 +23,7 @@
     - tag: Biometric
 
 - name: Publication 2
-  descr: "<b>Bipin Paudel</b> and George Amariucai, Reinforcement Learning Approach to Generate Zero-Dynamics Attacks on Control Systems Without State Space Models, 28th European Symposium on Research in Computer Security (ESORICS), 2023."
+  descr: <b>Bipin Paudel</b> and George Amariucai, Reinforcement Learning Approach to Generate Zero-Dynamics Attacks on Control Systems Without State Space Models, 28th European Symposium on Research in Computer Security (ESORICS), 2023
   demo: https://link.springer.com/chapter/10.1007/978-3-031-51482-1_1
   tags:
     - tag: Security

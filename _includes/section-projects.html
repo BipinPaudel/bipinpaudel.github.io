@@ -4,12 +4,12 @@
     {% for publication in site.data.publications %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <div class="name-link-wrapper">
-          <h3>{{project.name}}</h3>
+          <h3>{{publication.name}}</h3>
         </div>
-        <p class="project-desc">{{project.descr}}</p>
-        {% if project.demo %}
-          <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Demo
+        <p class="project-desc">{{publication.descr}}</p>
+        {% if publication.demo %}
+          <a class="highlight-link" href="{{publication.demo}}" target="_blank" rel="noreferrer">
+            Paper
           </a>
         {% endif %}
         {% if project.tags %}
