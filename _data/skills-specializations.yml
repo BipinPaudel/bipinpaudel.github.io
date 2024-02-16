@@ -1,0 +1,21 @@
+- name: Object Oriented Programming and Design
+  weight: 5
+
+- name: Database
+  weight: 5
+
+- name: Software engineering
+  weight: 5
+
+- name: NLP
+  weight: 5
+  
+- name: Machine learning
+  weight: 5
+
+- name: Data Science
+  weight: 5
+
+- name: Privacy
+  weight: 5
+
