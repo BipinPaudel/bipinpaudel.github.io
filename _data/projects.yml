@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Linear Regression
-  descr: "Performed regression analysis on a dataset of cancer patients, employing thorough exploratory data analysis (EDA), hypothesis testing and feature engineering techniques to identify the most influential categories within the dataset - 2023"
+  descr: "Performed regression analysis on a dataset of cancer patients, employing thorough exploratory data analysis (EDA), hypothesis testing and feature engineering techniques to identify the most influential categories within the dataset - 2024"
   demo: https://github.com/BipinPaudel/LinearRegressionCancer
   tags:
     - tag: Python
