@@ -13,21 +13,19 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Linear Regression
+  descr: "Performed regression analysis on a dataset of cancer patients, employing thorough exploratory data analysis (EDA), hypothesis testing and feature engineering techniques to identify the most influential categories within the dataset - 2023"
+  demo: https://github.com/BipinPaudel/LinearRegressionCancer
   tags:
     - tag: Python
-    - tag: Django
+    - tag: Numpy
+    - tag: Scikit learn
+    - tag: Matplotlib
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: NLP-Transformer
+  descr: "Transformer-based models to solve mathematical functions - 2023"
+  # demo: https://example.com/
+  tags:
+    - tag: Pytorch
+    - tag: Deep Learning
+    - tag: Natural Language Processing
