@@ -13,14 +13,14 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Linear Regression
-  descr: "Performed regression analysis on a dataset of cancer patients, employing thorough exploratory data analysis (EDA), hypothesis testing and feature engineering techniques to identify the most influential categories within the dataset - 2024"
-  demo: https://github.com/BipinPaudel/LinearRegressionCancer
-  tags:
-    - tag: Python
-    - tag: Numpy
-    - tag: Scikit learn
-    - tag: Matplotlib
+# - name: Linear Regression
+#   descr: "Performed regression analysis on a dataset of cancer patients, employing thorough exploratory data analysis (EDA), hypothesis testing and feature engineering techniques to identify the most influential categories within the dataset - 2024"
+#   demo: https://github.com/BipinPaudel/LinearRegressionCancer
+#   tags:
+#     - tag: Python
+#     - tag: Numpy
+#     - tag: Scikit learn
+#     - tag: Matplotlib
 
 - name: NLP-Transformer
   descr: "Transformer-based models to solve mathematical functions - 2023"
@@ -29,3 +29,12 @@
     - tag: Pytorch
     - tag: Deep Learning
     - tag: Natural Language Processing
+
+- name: End to End machine learning pipeline
+  descr: "A structured programming design pattern for executing machine learning projects, encompassing the entire workflow from exploratory data analysis (EDA) through to training, testing, hyperparameter tuning, and final deployment using Flask."
+  demo: https://github.com/BipinPaudel/EndToEndML
+  tags:
+    - tag: Python
+    - tag: Numpy
+    - tag: Scikit-learn
+    - tag: Flask

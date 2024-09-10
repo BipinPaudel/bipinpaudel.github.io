@@ -30,4 +30,22 @@
     - tag: Reinforcement learning
     - tag: anomaly detector
     - tag: Control systems
-    
+
+- name: Publication 3
+  descr: Bipin Paudel, George Amariucai, Alireza Zare, Mohammad Shadmand, Robust Detection in Power Systems; Iterative Reinforcement Learning Based Adversarial Training, $50^{th}$ IEEE Industrial Electronic Society (IECON), 2024.
+  demo:  
+  tags:
+    - tag: Security
+    - tag: Power systems
+    - tag: Reinforcement learning
+    - tag: Detector
+
+- name: Publication 4 (Ongoing)
+  descr: Bipin Paudel, and George Amariucai, Textual Data Privatization via Prompt Engineering Using Large Language Models.
+  demo: 
+  tags:
+    - tag: Large language models
+    - tag: Llama3, GPT-4
+    - tag: Deep learning
+
+
