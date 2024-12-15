@@ -19,3 +19,9 @@
 
 - name: Ruby
   weight: 3
+
+- name: C++
+  weight: 4
+
+- name: C
+  weight: 4

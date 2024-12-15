@@ -13,16 +13,34 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Publication 1
-  descr: Abhishek Jana, <b>Bipin Paudel</b>, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai, Neural Fuzzy Extractors, A Secure Way to Use Artificial Neural Networks for Biometric User Authentication, 22nd Privacy Enhancing Technologies Symposium (PETS 2022).
-  demo: https://petsymposium.org/popets/2022/popets-2022-0100.pdf
+- name: Publication 1 (In Review)
+  descr: Nikita Gautam, Bipin Paudel, Doina Caragea; Semi-Supervised Relation Extraction Informed by Area Under the Margin Ranking and Large Language Models.
+  demo: 
+  tags:
+    - tag: Large language models
+    - tag: Llama3.1, GPT-4, Bert, Qwen
+    - tag: Deep learning, Semi-supervised
+
+
+- name: Publication 2 (In Review)
+  descr: Bipin Paudel, and George Amariucai; Preserving Data Privacy: Zero-Shot Sanitization of Textual Data Against Inference Attacks with Topic-Based Evaluation
+  demo: https://ksuemailprod-my.sharepoint.com/:b:/g/personal/bipinp_ksu_edu/Ec5PpQEC3GlIqxczpkHokr8B1Z9lfMVnRecHnKKfJzEi3g?e=VGaPBD
+  tags:
+    - tag: Large language models
+    - tag: Llama3, GPT-4
+    - tag: Deep learning
+
+- name: Publication 3
+  descr: Bipin Paudel, George Amariucai, Alireza Zare, Mohammad Shadmand, Robust Detection in Power Systems; Iterative Reinforcement Learning Based Adversarial Training, $50^{th}$ IEEE Industrial Electronic Society (IECON), 2024.
+  demo: https://ksuemailprod-my.sharepoint.com/:b:/g/personal/bipinp_ksu_edu/EbSbu9giQqZGhZQUgHL0L6QBjrVM4COlIfjAsNTyjDeEgQ?e=s7onvH
   tags:
     - tag: Security
-    - tag: Deep Learning
-    - tag: Computer Vision
-    - tag: Biometric
+    - tag: Power systems
+    - tag: Reinforcement learning
+    - tag: Detector
 
-- name: Publication 2
+
+- name: Publication 4
   descr: <b>Bipin Paudel</b> and George Amariucai, Reinforcement Learning Approach to Generate Zero-Dynamics Attacks on Control Systems Without State Space Models, 28th European Symposium on Research in Computer Security (ESORICS), 2023
   demo: https://link.springer.com/chapter/10.1007/978-3-031-51482-1_1
   tags:
@@ -31,21 +49,12 @@
     - tag: anomaly detector
     - tag: Control systems
 
-- name: Publication 3
-  descr: Bipin Paudel, George Amariucai, Alireza Zare, Mohammad Shadmand, Robust Detection in Power Systems; Iterative Reinforcement Learning Based Adversarial Training, $50^{th}$ IEEE Industrial Electronic Society (IECON), 2024.
-  demo:  
+- name: Publication 5
+  descr: Abhishek Jana, <b>Bipin Paudel</b>, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai, Neural Fuzzy Extractors, A Secure Way to Use Artificial Neural Networks for Biometric User Authentication, 22nd Privacy Enhancing Technologies Symposium (PETS 2022).
+  demo: https://petsymposium.org/popets/2022/popets-2022-0100.pdf
   tags:
     - tag: Security
-    - tag: Power systems
-    - tag: Reinforcement learning
-    - tag: Detector
-
-- name: Publication 4 (Ongoing)
-  descr: Bipin Paudel, and George Amariucai, Textual Data Privatization via Prompt Engineering Using Large Language Models.
-  demo: 
-  tags:
-    - tag: Large language models
-    - tag: Llama3, GPT-4
-    - tag: Deep learning
-
+    - tag: Deep Learning
+    - tag: Computer Vision
+    - tag: Biometric
 
